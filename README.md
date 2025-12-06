@@ -11,7 +11,7 @@
 
 ## About
 
-This is a professionally designed web website for marketing purposes of Leasing the warehouse/office space available.
+This is a professionally designed website for marketing and leasing the warehouse/office space available.
 .
 
 ## Tools
